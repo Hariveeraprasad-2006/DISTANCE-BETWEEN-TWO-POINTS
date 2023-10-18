@@ -8,7 +8,8 @@ Import math module.
 ### Step 2:
 Give the two co-ordinates for finding distance.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/Hariveeraprasad-2006/DISTANCE-BETWEEN-TWO-POINTS/assets/145049988/828368d8-aacd-477e-927b-94e59a0595ef)
+
 ### Step 4:
 Use the  in-bulit sprt function to find the distance
 ### Step 5: 
